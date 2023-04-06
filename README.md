@@ -1,2 +1,2 @@
-# Calculadora-b-sica-
+# Calculadora-basica-
 Calculadora simples em Java 
